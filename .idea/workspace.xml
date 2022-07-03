@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09466688-b78c-44c8-90a2-399e8bb90f08" name="Changes" comment="&quot;First commit&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Post.java" afterDir="false" />
+    <list default="true" id="09466688-b78c-44c8-90a2-399e8bb90f08" name="Changes" comment="&quot;Create Post&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FormDay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FormDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Post.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/kurum/IdeaProjects/lesson9"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656779646297</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Create Post&quot;">
+      <created>1656780778600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656780778600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;First commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;First commit&quot;" />
+    <MESSAGE value="&quot;Create Post&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Create Post&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -93,7 +106,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
           <line>2</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
